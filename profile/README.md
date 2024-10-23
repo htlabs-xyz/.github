@@ -1,1 +1,1 @@
-![HTLabs Banner](/images/banner.png)
+![HTLabs Banner](/assets/banner.png)
